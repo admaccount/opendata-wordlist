@@ -1,0 +1,7 @@
+https://www.data.gouv.fr/fr/datasets/communes-france-1/
+https://www.data.gouv.fr/fr/datasets/liste-de-prenoms-et-patronymes/
+https://www.data.gouv.fr/fr/datasets/liste-des-administrations-francaises/
+https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/
+https://www.data.gouv.fr/fr/datasets/repertoire-national-des-elus-1/
+https://www.data.gouv.fr/fr/datasets/associations-joafe/
+
